@@ -13,6 +13,6 @@
 2016/07/25   git remote add origin https://github.com/lcl18337162716/aaa.git  (https://github.com/+(用户名字)/文件名字.git)
 2016/07/25   git push -u origin master 把本地库的所有内容推送到远程库上
 2016/07/25   git push origin master 本地提交到github
-2016/07/25
+2016/07/25   git clone命令克隆  克隆版本库
 2016/07/25
 2016/07/25
