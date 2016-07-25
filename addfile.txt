@@ -10,3 +10,9 @@
 2016/07/25   git reset HEAD file  撤销工作区的修改即（撤销已经add的数据，若是已经commmit 则用回退命令回退到上一个版本）
 2016/07/25   git rm 删除版本库中的文件（命令git rm删掉，并且git commit）
 2016/07/25   ssh-keygen -t rsa -C "用户邮箱"生成链接key
+2016/07/25   git remote add origin https://github.com/lcl18337162716/aaa.git  (https://github.com/+(用户名字)/文件名字.git)
+2016/07/25   git push -u origin master 把本地库的所有内容推送到远程库上
+2016/07/25   git push origin master 本地提交到github
+2016/07/25
+2016/07/25
+2016/07/25
