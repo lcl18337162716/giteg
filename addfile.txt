@@ -8,3 +8,5 @@
 2016/07/25   git reflog 查看命令历史，以便确定要回到未来的哪个版本
 2016/07/25   git checkout -- file 让文件回到最近一次git commit或git add时的状态
 2016/07/25   git reset HEAD file  撤销工作区的修改即（撤销已经add的数据，若是已经commmit 则用回退命令回退到上一个版本）
+2016/07/25   git rm 删除版本库中的文件（命令git rm删掉，并且git commit）
+2016/07/25   ssh-keygen -t rsa -C "用户邮箱"生成链接key
