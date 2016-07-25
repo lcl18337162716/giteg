@@ -1,3 +1,4 @@
 2016/07/25   add file 学习git 添加文件  git add +文件名字
 2016/07/25   commit 提交添加的文件    git commit -m +“备注”
 2016/07/25   git status  查看运行结果
+2016/07/25   git diff +文件名字  比较文件不同
