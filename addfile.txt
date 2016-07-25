@@ -14,10 +14,12 @@
 2016/07/25   git push -u origin master 把本地库的所有内容推送到远程库上
 2016/07/25   git push origin master 本地提交到github
 2016/07/25   git clone命令克隆  克隆版本库
-2016/07/25   git checkout -b +(dev)  创建dev分支
-2016/07/25   git branch命令查看当前分支
-2016/07/25   git merge +(dev)合并当前分支
-2016/07/25
+2016/07/25   git branch <name> 创建分支
+2016/07/25   git checkout 切换分支
+2016/07/25   git checkout -b <name>  创建分支并切换到该分支
+2016/07/25   git branch 命令查看当前分支
+2016/07/25   git merge <name>合并某分支到当前分支
+2016/07/25   git branch -d <name>删除分支
 2016/07/25
 2016/07/25
 2016/07/25
