@@ -20,7 +20,7 @@
 2016/07/25   git branch 命令查看当前分支
 2016/07/25   git merge <name>合并某分支到当前分支
 2016/07/25   git branch -d <name>删除分支
-2016/07/25
+2016/07/25   git log --graph --pretty=oneline --abbrev-commit 看到分支合并图(git log --graph)
 2016/07/25
 2016/07/25
 2016/07/25
